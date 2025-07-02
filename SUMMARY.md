@@ -69,6 +69,7 @@
   * [Проверить наличие WhatsApp на номере](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/proverit-nalichie-whatsapp-na-nomere.md)
   * [Ожидать сообщение](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/ozhidat-soobshenie.md)
   * [Узнать возможность отправки сообщения](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/uznat-vozmozhnost-otpravki-soobsheniya.md)
+  * [Завершить диалог](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/zavershit-dialog.md)
 * [Настройка отправки файла в зависимости от источника](roboty-i-aktiviti/nastroika-otpravki-faila-v-zavisimosti-ot-istochnika.md)
 * [Умные сценарии](roboty-i-aktiviti/umnye-scenarii.md)
 
