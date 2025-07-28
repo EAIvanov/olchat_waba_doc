@@ -63,7 +63,7 @@
 
 * [Роботы и активити бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/README.md)
   * [Отправить сообщение или шаблон](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/otpravit-soobshenie-ili-shablon.md)
-  * [Отправить сообщение с изображением](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/otpravit-soobshenie-s-izobrazheniem.md)
+  * [не надо Отправить сообщение с изображением](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/ne-nado-otpravit-soobshenie-s-izobrazheniem.md)
   * [Отправить файл](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/otpravit-fail.md)
   * [Отправить контакт](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/otpravit-kontakt.md)
   * [Отправить геолокацию](roboty-i-aktiviti/roboty-i-aktiviti-biznes-processov/otpravit-geolokaciyu.md)
