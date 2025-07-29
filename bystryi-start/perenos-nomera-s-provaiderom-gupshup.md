@@ -34,7 +34,7 @@ hidden: true
 {% endstep %}
 
 {% step %}
-### Отключение 2FA завершено.
+#### Отключение 2FA завершено.
 {% endstep %}
 {% endstepper %}
 
