@@ -32,6 +32,10 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.11.14.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+### Отключение 2FA завершено.
+{% endstep %}
 {% endstepper %}
 
 ### Перенос номера
