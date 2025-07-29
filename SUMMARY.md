@@ -15,7 +15,8 @@
   * [Подключение существующего аккаунта GupShup](bystryi-start/registraciya-v-gupshup/podklyuchenie-sushestvuyushego-akkaunta-gupshup.md)
 * [Создание и настройка приложения WhatsApp в GupShup](bystryi-start/sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md)
 * [Добавление компании в Business Manager](bystryi-start/podtverzhdenie-kompanii-v-facebook-business-manager.md)
-* [Перенос номера](bystryi-start/perenos-nomera.md)
+* [Перенос номера с провайдером GupShup](bystryi-start/perenos-nomera-s-provaiderom-gupshup.md)
+* [Перенос номера от другого провайдера](bystryi-start/perenos-nomera-ot-drugogo-provaidera.md)
 
 ## Установка и настройка приложения в Битрикс24
 
