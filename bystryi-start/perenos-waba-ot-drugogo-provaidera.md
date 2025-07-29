@@ -52,35 +52,29 @@
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.26.05.png" alt=""><figcaption></figcaption></figure>
 
-1
+{% hint style="warning" %}
+Необходимо указывать тот же WhatsApp Display Name, какой использовался у предыдущего оператора в личном кабинете.
+{% endhint %}
+{% endstep %}
 
-1
+{% step %}
+#### Добавьте номер, который переносится.
 
+<figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.44.45.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.45.40.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### При успешном переносе, в GupShup станет доступен следующий шаг. Здесь необходмо также выбрать номер, который переносится, далее нажать "Confirm".
+
+<figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.47.40.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### Перенос номера завершен.
 {% endstep %}
 {% endstepper %}
-
-Следуйте дальнейшей инструкции:
-
-Выберите или создайте аккаунт и создайте профиль под номер
-
-<figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% hint style="warning" %}
-Важно. Вы должны указывать тот же WhatsApp Display Name что и предыдущего оператора в личном кабинете
-{% endhint %}
-
-Добавьте номер, который переносите
-
-<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
-
-Если всё прошло успешно, вы увидите в GupShup следующий шаг, на котором нужно выбрать ваш номер
-
-<figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение партнёра и получение ключа API
 
