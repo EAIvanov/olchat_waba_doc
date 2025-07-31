@@ -1,7 +1,7 @@
 # Последовательность подключения
 
 1. Создайте бизнес-портфолио в Meta\* Business Suite и Business Manager. Подробнее в статье [#process-sozdaniya-biznes-portfolio](podtverzhdenie-kompanii-v-facebook-business-manager.md#process-sozdaniya-biznes-portfolio "mention")
-2. Зарегистрируйтесь и создайте личный кабинет на сайте gupshup.io. Подробнее в статье [registraciya-v-gupshup](registraciya-v-gupshup/ "mention")
+2. Зарегистрируйтесь и создайте личный кабинет на сайте gupshup.io. Подробнее в статье [registraciya-v-gupshup.md](registraciya-v-gupshup.md "mention")
 3. Добавьте приложение WhatsApp в кабинете GupShup. Подробнее в статье [#dobavlenie-prilozheniya-whatsapp-v-kabinete-gupshup](sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md#dobavlenie-prilozheniya-whatsapp-v-kabinete-gupshup "mention")
 4. Подключите приложение WhatsApp к аккаунту Meta\*. Подробнее в статье [#podklyuchenie-prilozheniya-k-akkauntu-meta](sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md#podklyuchenie-prilozheniya-k-akkauntu-meta "mention")
 5. Выполните привязку приложения к партнёру. Подробнее в статье [#dobavlenie-partnyora](sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md#dobavlenie-partnyora "mention")
