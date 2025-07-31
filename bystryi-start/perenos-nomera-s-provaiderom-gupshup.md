@@ -54,28 +54,26 @@ hidden: true
 {% endstep %}
 
 {% step %}
-####
+#### Воспользуйтесь [инструкцией ](https://waba.docs.olchat.io/bystryi-start/sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup#dobavlenie-prilozheniya-whatsapp-v-kabinete-gupshup)по созданию и настройке приложения WhatsApp в GupShup.&#x20;
 {% endstep %}
 
 {% step %}
-####
+#### На этапе подключения приложения WhatsApp к аккаунту Meta\*, выберите "Действующий номер" и завершите подключение, следуя инструкции.
 {% endstep %}
 
 {% step %}
-####
+#### Воспользуйтесь [инструкцией ](../ustanovka-i-nastroika-prilozheniya-v-bitriks24/ustanovka-prilozheniya.md)по установке приложения OLChat WABA.
+{% endstep %}
+
+{% step %}
+#### Подключите открытую линию и коннектор, воспользовавшись данной [инструкцией](../ustanovka-i-nastroika-prilozheniya-v-bitriks24/podklyuchenie-konnektora.md).
+{% endstep %}
+
+{% step %}
+#### Настройте открытую линию согласно данной [инструкции](../ustanovka-i-nastroika-prilozheniya-v-bitriks24/nastroika-otkrytoi-linii.md).
+
+#### Перенос номера завершён, можно приступать к работе!
 {% endstep %}
 {% endstepper %}
-
-### Подключение партнёра и получение ключа API
-
-Следуйте инструкции:
-
-{% embed url="https://waba.docs.olchat.io/bystryi-start/sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup#dobavlenie-partnyora" %}
-
-После этого переходите к установке приложения:
-
-{% embed url="https://waba.docs.olchat.io/ustanovka-i-nastroika-prilozheniya-v-bitriks24/ustanovka-prilozheniya" %}
-
-
 
 _(\*) Meta, Facebook — признана экстремистской организацией на территории РФ._
