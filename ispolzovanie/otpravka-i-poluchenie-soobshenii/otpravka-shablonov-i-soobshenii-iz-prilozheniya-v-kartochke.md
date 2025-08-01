@@ -38,6 +38,10 @@
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+Размер изображения, отправляемого клиенту, должен быть 800×800 пикселей. В таком случае, изображение в WhatsApp, при прочтении сообщения, обрезаться не будет.
+{% endhint %}
+
 {% hint style="info" %}
 Подробнее о создании шаблонных сообщений с изображениями в статье [#sozdanie-shablona-s-izobrazheniyami](../../lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/#sozdanie-shablona-s-izobrazheniyami "mention")
 {% endhint %}
