@@ -49,6 +49,7 @@
 * [Отправка и получение сообщений](ispolzovanie/otpravka-i-poluchenie-soobshenii/README.md)
   * [Отправка шаблонов и сообщений из приложения в карточке](ispolzovanie/otpravka-i-poluchenie-soobshenii/otpravka-shablonov-i-soobshenii-iz-prilozheniya-v-kartochke.md)
   * [Отправка сообщений через функционал СМС](ispolzovanie/otpravka-i-poluchenie-soobshenii/otpravka-soobshenii-cherez-funkcional-sms.md)
+  * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-i-poluchenie-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 * [Виджеты](ispolzovanie/vidzhety/README.md)
   * [Виджет статусов и отправки в карточке CRM](ispolzovanie/vidzhety/vidzhet-v-kartochke-crm.md)
   * [Виджет отправки шаблонов для Открытой Линии](ispolzovanie/vidzhety/vidzhet-otpravki-shablonov-dlya-otkrytoi-linii.md)
