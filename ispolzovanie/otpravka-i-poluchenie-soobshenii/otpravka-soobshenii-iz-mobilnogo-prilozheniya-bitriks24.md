@@ -66,4 +66,16 @@ hidden: true
 
 <figure><img src="../../.gitbook/assets/dd62d121-9709-487a-8d77-f170459b2030.jpg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
+
+{% step %}
+#### В таймлайне будет зафиксирована успешная отправка сообщения.
+
+<figure><img src="../../.gitbook/assets/Скриншот 08.08.25_16.33.34.png" alt=""><figcaption></figcaption></figure>
+
+В случае возникновения ошибки при отправке сообщения, вы увидите информацию об этом в таймлайне:
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/Скриншот 08.08.25_16.36.21.png" alt=""><figcaption></figcaption></figure></div>
+
+В причинах возникновения ошибки можно разобраться, попытавшись отправить сообщение с помощью Whatsabi через веб-версию Битрикс24.
+{% endstep %}
 {% endstepper %}
