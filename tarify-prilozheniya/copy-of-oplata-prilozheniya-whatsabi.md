@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Copy of Оплата приложения Whatsabi
 
 Для оплаты OLChat WABA выполните следующие действия:
