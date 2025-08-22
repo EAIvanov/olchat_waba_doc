@@ -79,6 +79,7 @@
 ## Вопросы и ответы
 
 * [Вопросы и ответы](voprosy-i-otvety/untitled/README.md)
+  * [Решение ошибки "Соответствие компании правилам: проблема с платежом"](voprosy-i-otvety/untitled/reshenie-oshibki-sootvetstvie-kompanii-pravilam-problema-s-platezhom.md)
   * [Сравнение неофициальной интеграции WhatsApp и официальной WhatsApp Business API с Битрикс24](voprosy-i-otvety/untitled/sravnenie-neoficialnoi-integracii-whatsapp-i-oficialnoi-whatsapp-business-api-s-bitriks24.md)
   * [Отличие WhatsApp, WhatsApp Business и WhatsApp Business API](voprosy-i-otvety/untitled/otlichie-whatsapp-whatsapp-business-i-whatsapp-business-api.md)
   * [Как отключить номер от WhatsApp Business API, чтобы подключиться к «серому» WhatsApp?](voprosy-i-otvety/untitled/kak-otklyuchit-nomer-ot-whatsapp-business-api-chtoby-podklyuchitsya-k-seromu-whatsapp.md)
