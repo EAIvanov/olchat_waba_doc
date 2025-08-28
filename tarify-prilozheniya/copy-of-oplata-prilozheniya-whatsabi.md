@@ -14,7 +14,7 @@ hidden: true
 {% endstep %}
 
 {% step %}
-#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
+#### В поле "Компания" нажмите "<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">", затем "+ Добавить компанию".
 
 <figure><img src="../.gitbook/assets/Скриншот 13.08.25_11.53.47.png" alt=""><figcaption></figcaption></figure>
 

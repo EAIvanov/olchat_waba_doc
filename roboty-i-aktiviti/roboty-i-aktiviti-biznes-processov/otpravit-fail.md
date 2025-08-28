@@ -16,9 +16,9 @@ hidden: true
 {% step %}
 #### Перейти в раздел "Роботы" из списка лидов, либо карточки лида в CRM.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -50,6 +50,6 @@ hidden: true
 
 Сообщение клиенту в WhatsApp будет выглядеть следующим образом:
 
-КАРТИНКА
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
