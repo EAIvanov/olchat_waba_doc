@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Отправить файл
 
 {% hint style="warning" %}
