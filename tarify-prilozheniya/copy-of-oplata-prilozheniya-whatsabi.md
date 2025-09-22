@@ -52,7 +52,7 @@ hidden: true
 
 Список открытых линий можно отсортировать по названию, а также оставшемуся сроку оплаты. Для этого нажмите <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> рядом с наименованием столбца.&#x20;
 
-Для убоства срок оплаты окрашен в разные цвета. Активные линии с действующей подпиской отражены <mark style="color:green;">зеленым</mark> цветом, неактивные - <mark style="color:$info;">серым</mark>, требующие оплаты - <mark style="color:red;">красным</mark>.&#x20;
+Для удобства срок оплаты окрашен в разные цвета. Активные линии с действующей подпиской отражены <mark style="color:green;">зеленым</mark> цветом, неактивные - <mark style="color:$info;">серым</mark>, требующие оплаты - <mark style="color:red;">красным</mark>.&#x20;
 
 <figure><img src="../.gitbook/assets/Скриншот 13.08.25_16.42.12.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
