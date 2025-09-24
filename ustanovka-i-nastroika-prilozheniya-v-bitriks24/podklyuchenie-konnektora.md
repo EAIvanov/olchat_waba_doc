@@ -1,20 +1,28 @@
 # Подключение открытой линии и коннектора
 
-После установки перейдите в приложение «Whatsabi» в левом меню портала:
+Для того, чтобы подключить открытую линию в приложении Whatsabi, необходимо выполнить следующие действия:
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+{% stepper %}
+{% step %}
+#### Откройте приложение Whatsabi.
 
-### Подключение открытой линии
+Для этого выберите приложение в левом меню портала Битрикс24:
 
-Для начала, необходимо создать или подключить открытую линию. Для этого в открывшемся окне нажмите на кнопку «ПОДКЛЮЧИТЬ WHATSAPP BUSSINESS API»
+<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+#### В открывшемся окне выберите "Подключить WhatsApp Business API".
 
-{% hint style="info" %}
-Если у вас несколько открытых линий, из выпадающего списка выберите Открытую линию к которой собираетесь подключить коннектор, нажав на кнопку «ПОДКЛЮЧИТЬ». Если линий для подключения нет, вы можете создать новую, нажав на ссылку «СОЗДАТЬ НОВУЮ ЛИНИЮ»
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+{% step %}
+#### Создайте новую открытую линию путём нажатия на соответствующую кнопку, либо выберите линию из существующих и нажмите кнопку "Подключить".
+
+<figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ### Подключение коннектора
 
