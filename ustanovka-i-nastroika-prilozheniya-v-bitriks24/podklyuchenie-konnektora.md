@@ -8,7 +8,7 @@
 
 Для этого выберите приложение в левом меню портала Битрикс24:
 
-<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (296).png" alt="" width="200"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
