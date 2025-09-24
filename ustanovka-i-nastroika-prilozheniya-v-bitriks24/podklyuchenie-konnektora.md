@@ -18,18 +18,36 @@
 
 ### Подключение коннектора
 
-После подключения открытой линии можно перейти к подключению коннектора. Для этого в подключаемом коннекторе перейдите в раздел «СОЕДИНЕНИЕ»:
+После подключения открытой линии перейдём к подключению коннектора. Для этого необходимо выполнить следующие действия:
 
-<figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+{% stepper %}
+{% step %}
+#### В подключаемом коннекторе перейдите на вкладку "Соединение".
 
-1. В поле «**Токен**» укажите API ключа приложения WhatsApp, полученный в личном кабинете GupShup. Подробнее о получении API ключа приложения WhatsApp в статье [#poluchenie-klyucha-api-prilozheniya](../bystryi-start/sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md#poluchenie-klyucha-api-prilozheniya "mention")
-2. В поле «**Приложение**» укажите название приложения из личного кабинета.\*\*
-3. Нажмите на кнопку «**СОХРАНИТЬ**».
+<figure><img src="../.gitbook/assets/image (274).png" alt="" width="375"><figcaption></figcaption></figure>
+{% endstep %}
 
-\*\* - Название приложения можно скопировать в личном кабинете GupShup на вкладке Dashboard / WhatsApp в строках, содержащих информацию о подключенных приложениях. Пример:
+{% step %}
+#### В поле «**Токен**» укажите API ключа приложения WhatsApp, полученный в личном кабинете GupShup.
+
+Для получения ключа API нажмите на "Мой профиль" в правом верхнем углу, далее необходимо нажать кнопку "Показать", либо сразу воспользоваться кнопкой копирования ключа API "Копировать в буфер обмена".
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### В поле «**Приложение**» укажите название приложения из личного кабинета.
+
+Название приложения можно скопировать в личном кабинете GupShup на вкладке Dashboard / WhatsApp в строках, содержащих информацию о подключенных приложениях.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### Сохраните настройки.
 
 После успешного подключения цвет иконки статуса подключения сменится на зелёный, а также отобразится дополнительная информация о номере телефона, названии приложения и оставшаяся на балансе сумма.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
