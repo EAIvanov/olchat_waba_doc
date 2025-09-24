@@ -116,12 +116,6 @@
 
 <figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
-### Получение ключа API приложения
-
-<figure><img src="../.gitbook/assets/губшуп.png" alt=""><figcaption></figcaption></figure>
-
-Для получения ключа API необходимо нажать на "Мой профиль" в правом верхнем углу. Далее необходимо нажать кнопку "Показать", либо сразу воспользоваться кнопкой копирования ключа API "Копировать в буфер обмена".
-
-API ключ будет скопирован в буфер и может быть использован в дальнейшей настройке при подключении коннектора в приложении Whatsabi. Подробнее в статье [#podklyuchenie-konnektora](../ustanovka-i-nastroika-prilozheniya-v-bitriks24/podklyuchenie-konnektora.md#podklyuchenie-konnektora "mention")
+Следующий этап — [установка приложения Whatsabi](../ustanovka-i-nastroika-prilozheniya-v-bitriks24/ustanovka-prilozheniya.md) на портал Битрикс24.&#x20;
 
 _(\*) Meta — признана экстремистской организацией на территории РФ._
