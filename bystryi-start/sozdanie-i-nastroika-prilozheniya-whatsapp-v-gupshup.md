@@ -18,6 +18,26 @@
 
 <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
+### Добавление партнёра
+
+Для добавления партнёра к приложению WhatsApp, в личном кабинете GupShup перейдите на страницу Дашборд. Выберите нужное приложение и перейдите к его настройкам. Для этого нажмите на иконку рядом с названием приложения:
+
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+
+Далее, перейдите на вкладку «Настройки» и нажмите на кнопку «Добавить партнёра»:
+
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+
+В поле ввода партнёрского ID введите значение `88` и нажмите на кнопку для подтверждения добавления. Это ID нашей компании, его необходимо вводить чтобы вы смогли подключиться к нашему приложению для интеграции.&#x20;
+
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+
+Убедитесь в том, что привязка к партнёру произошла успешно и в имени партнёра прописано значение `Infocom`:
+
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+
 ### Подключение приложения к аккаунту Meta\*
 
 Для подключения приложения WhatsApp к аккаунту Meta\*, в личном кабинете GupShup перейдите на страницу Дашборд. Напротив нужного приложения нажмите на кнопку «В прямом эфире»:
@@ -95,26 +115,6 @@
 Перейдите в дашборд. В списке приложений вы увидите подключенный аккаунт:
 
 <figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-### Добавление партнёра
-
-Для добавления партнёра к приложению WhatsApp, в личном кабинете GupShup перейдите на страницу Дашборд. Выберите нужное приложение и перейдите к его настройкам. Для этого нажмите на иконку рядом с названием приложения:
-
-<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
-
-Далее, перейдите на вкладку «Настройки» и нажмите на кнопку «Добавить партнёра»:
-
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
-
-В поле ввода партнёрского ID введите значение `88` и нажмите на кнопку для подтверждения добавления. Это ID нашей компании, его необходимо вводить чтобы вы смогли подключиться к нашему приложению для интеграции.&#x20;
-
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
-
-Убедитесь в том, что привязка к партнёру произошла успешно и в имени партнёра прописано значение `Infocom`:
-
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 ### Получение ключа API приложения
 
