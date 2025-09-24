@@ -23,8 +23,12 @@
 <figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 1. В поле «**Токен**» укажите API ключа приложения WhatsApp, полученный в личном кабинете GupShup. Подробнее о получении API ключа приложения WhatsApp в статье [#poluchenie-klyucha-api-prilozheniya](../bystryi-start/sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md#poluchenie-klyucha-api-prilozheniya "mention")
-2. В поле «**Приложение**» укажите название приложения из личного кабинета.
+2. В поле «**Приложение**» укажите название приложения из личного кабинета.\*\*
 3. Нажмите на кнопку «**СОХРАНИТЬ**».
+
+\*\* - Название приложения можно скопировать в личном кабинете GupShup на вкладке Dashboard / WhatsApp в строках, содержащих информацию о подключенных приложениях. Пример:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 После успешного подключения цвет иконки статуса подключения сменится на зелёный, а также отобразится дополнительная информация о номере телефона, названии приложения и оставшаяся на балансе сумма.
 
