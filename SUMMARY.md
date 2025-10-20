@@ -12,6 +12,7 @@
 
 * [Последовательность подключения](bystryi-start/posledovatelnost-podklyucheniya.md)
 * [Чек-лист до запуска WABA](bystryi-start/chek-list-do-zapuska-waba.md)
+* [Copy of Чек-лист до запуска WABA](bystryi-start/copy-of-chek-list-do-zapuska-waba.md)
 * [Регистрация в GupShup](bystryi-start/registraciya-v-gupshup.md)
 * [Создание и настройка приложения WhatsApp в GupShup](bystryi-start/sozdanie-i-nastroika-prilozheniya-whatsapp-v-gupshup.md)
 * [Добавление компании в Business Manager](bystryi-start/podtverzhdenie-kompanii-v-facebook-business-manager.md)
