@@ -23,7 +23,7 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив «\[Whatsabi] Закрыть все диалоги в сущности».
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -37,9 +37,9 @@
 
 Сохраните настройки.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

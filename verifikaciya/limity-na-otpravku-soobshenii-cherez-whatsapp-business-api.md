@@ -20,7 +20,7 @@
 
 Сразу после регистрации номера вам будет присвоен либо Tier-0, либо Tier-1. Начальный уровень определяется наличием подтверждённого юридического лица в вашем кабинете Business Manager.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Повышение Tier-уровня
 

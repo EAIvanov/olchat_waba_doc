@@ -27,7 +27,7 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив «\[Whatsabi] Отправить геолокацию».
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -38,7 +38,7 @@
 3. Введите координаты точки на карте. В поле "Адрес" можно указать название места или улицу, дом. Во второй строке адреса, например, можно указать город.&#x20;
 4. Сохраните настройки.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

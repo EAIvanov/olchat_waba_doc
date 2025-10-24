@@ -29,7 +29,7 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив «\[Whatsabi] Узнать возможность отправки сообщения».
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

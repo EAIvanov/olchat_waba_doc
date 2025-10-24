@@ -29,7 +29,7 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив «\[Whatsabi] Отправить сообщение».
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

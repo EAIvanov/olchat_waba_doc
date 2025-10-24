@@ -23,13 +23,13 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив  "\[Whatsabi] Проверить наличие WhatsApp".
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 #### Настройте робота, заполнив параметры поля "Телефон".
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -40,12 +40,12 @@
 3. Воспользуйтесь строкой поиска, введя "Добавить комментарий в элемент";
 4. Нажмите "Добавить" напротив  "Добавить комментарий в элемент".
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
 5. Укажите очередь срабатывания триггера: После предыдущего робота.
-6. Укажите причину срабатывания триггера: нажмите "<img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">", далее выберите "Роботы" - "\[Whatsabi] Проверить наличие WhatsApp" - "Номер существует?"
+6. Укажите причину срабатывания триггера: нажмите "<img src="../../.gitbook/assets/image (309).png" alt="" data-size="line">", далее выберите "Роботы" - "\[Whatsabi] Проверить наличие WhatsApp" - "Номер существует?"
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
 
 7. Сохраните настройки.&#x20;
 {% endstep %}

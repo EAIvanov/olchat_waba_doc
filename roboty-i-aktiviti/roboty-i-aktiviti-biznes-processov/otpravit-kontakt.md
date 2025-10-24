@@ -27,7 +27,7 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив «\[Whatsabi] Отправить контакт».
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -37,7 +37,7 @@
 2. Заполните поле "Телефон".
 3. Укажите ID контакта, данные которого будут отправляться роботом.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

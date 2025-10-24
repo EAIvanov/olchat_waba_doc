@@ -6,15 +6,15 @@
 
 Создадим умный сценарий, который будет отправлять сообщения клиентам в WhatsApp по выбранным сделкам. Для этого в вашем Битрикс24 необходимо перейти в раздел **CRM ‒ Сделки ‒ Список сценариев ‒ Умные сценарии ‒ Создать сценарий.**
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне укажите название и описание сценария.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Добавим робота, который будет выполнять отправку сообщения. Для этого необходимо нажать кнопку **+добавить ‒ Другие роботы ‒ \[Whatsabi] Отправить сообщение.**
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота:
 
@@ -25,7 +25,7 @@
    * **Спрашивать при запуске** – во время запуска сценария нужно будет внести данные в появившемся окне.
    * **Выбрать сейчас** – укажите нужные параметры, чтобы установить их сейчас.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку «СОХРАНИТЬ»
 
@@ -35,16 +35,16 @@
 
 Чтобы запустить умный сценарий, отметьте необходимые сущности, перейдите в **Список сценариев ‒ Умные сценарии ‒ Отправка сообщения.** Сценарий запустится и выполнит указанные в нём действия.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Если при настройке сценария вы выбирали дополнительные параметры запуска, перед выполнением вам будет показано диалоговое окно с возможностью указать эти параметры. В нашем примере – укажем текст отправляемого сообщения.
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы отредактировать созданный сценарий, необходимо перейти в список сценариев.
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне вы увидите список всех доступных сценариев. Чтобы удалить или настроить сценарий, используйте соответствующие действия.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>

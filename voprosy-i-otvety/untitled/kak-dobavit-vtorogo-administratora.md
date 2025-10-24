@@ -6,7 +6,7 @@
 2. Перейдите в раздел Пользователи > Люди > "Пригласить людей";
 3. При добавлении второго администратора убедитесь, что не включаете определенную галочку, которая может вызвать запрос на добавление дополнительных объектов.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 

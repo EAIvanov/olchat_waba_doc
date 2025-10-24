@@ -23,7 +23,7 @@
 3. Из списка меню выберите "Другие роботы";
 4. Нажмите "Добавить" напротив «\[Whatsabi] Узнать возможность отправки сообщения».
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -33,7 +33,7 @@
 2. Заполните параметры поля "Телефон".
 3. Нажмите "Сохранить".
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -44,12 +44,12 @@
 3. Воспользуйтесь строкой поиска, введя "Добавить комментарий в элемент";
 4. Нажмите "Добавить" напротив  "Добавить комментарий в элемент".
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
 5. Укажите очередь срабатывания триггера: После предыдущего робота.
-6. Укажите причину срабатывания триггера: нажмите "<img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">", далее выберите "Роботы" - "\[Whatsabi] Узнать возможность отправки сообщения", затем выберите необходимый параметр проверки.
+6. Укажите причину срабатывания триггера: нажмите "<img src="../../.gitbook/assets/image (309).png" alt="" data-size="line">", далее выберите "Роботы" - "\[Whatsabi] Узнать возможность отправки сообщения", затем выберите необходимый параметр проверки.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 7. Сохраните настройки.&#x20;
 {% endstep %}
