@@ -40,7 +40,7 @@
 
 Для получения ключа API нажмите на "Мой профиль" в правом верхнем углу, далее необходимо нажать кнопку "Показать", либо сразу воспользоваться кнопкой копирования ключа API "Копировать в буфер обмена".
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -48,7 +48,7 @@
 
 Название приложения можно скопировать в личном кабинете GupShup на вкладке Dashboard / WhatsApp в строках, содержащих информацию о подключенных приложениях.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -56,6 +56,6 @@
 
 После успешного подключения цвет иконки статуса подключения сменится на зелёный, а также отобразится дополнительная информация о номере телефона, названии приложения и оставшаяся на балансе сумма.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
