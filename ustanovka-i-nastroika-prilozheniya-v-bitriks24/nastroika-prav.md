@@ -134,7 +134,7 @@
 {% step %}
 #### В разделе "Очередь ответственных сотрудников"  нажмите "+ Добавить".
 
-<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (340).png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
