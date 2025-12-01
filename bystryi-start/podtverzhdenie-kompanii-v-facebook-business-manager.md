@@ -14,14 +14,12 @@
 
 ### Чтобы создать бизнес-портфолио:
 
-1.  Откройте ссылку [business.facebook.com](https://business.facebook.com/) в браузере на компьютере. В будущем используйте этот адрес для входа в аккаунт Meta\* Business Suite или Business Manager. Если у вас уже есть доступ к Meta\* Business Suite или Business Manager, раскройте меню в верхней части панели навигации слева. Перейдите к шагу 4.\
-
+1.  Откройте ссылку [business.facebook.com](https://business.facebook.com/) в браузере на компьютере. В будущем используйте этот адрес для входа в аккаунт Meta\* Business Suite или Business Manager. Если у вас уже есть доступ к Meta\* Business Suite или Business Manager, раскройте меню в верхней части панели навигации слева. Перейдите к шагу 4.<br>
 
     <figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 2. Нажмите Создать аккаунт.
 3. Войдите в личный аккаунт Facebook. Если у вас его нет, нажмите Создать аккаунт и создайте его.
-4.  Нажмите Создать компанию.\
-
+4.  Нажмите Создать компанию.<br>
 
     <figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 5.  Введите сведения о вашей компании:
@@ -42,17 +40,14 @@
 Чтобы отредактировать информацию в Business Manager:
 
 1. Откройте страницу [настройки компании](https://business.facebook.com/settings).
-2.  Если в кабинете добавлено несколько компаний, выберите нужную:\
-
+2.  Если в кабинете добавлено несколько компаний, выберите нужную:<br>
 
     <figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 3. Нажмите Информация о бизнес-портфолио.
-4.  Нажмите Редактировать в разделе Сведения о компании:\
-
+4.  Нажмите Редактировать в разделе Сведения о компании:<br>
 
     <figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
-5.  Обновите необходимые данные:\
-
+5.  Обновите необходимые данные:<br>
 
     <figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 6. Нажмите на кнопку Сохранить.

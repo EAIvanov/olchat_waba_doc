@@ -30,9 +30,9 @@
 
 [otpravit-fail.md](otpravit-fail.md "mention") — робот для отправки изображений и других файлов
 
-[Broken link](broken-reference "mention")
+[Broken link](/broken/pages/Ef7mnTbT3eJaKrg96hv4 "mention")
 
-[Broken link](broken-reference "mention")
+[Broken link](/broken/pages/UT0bBCctg5OMgN1EUxj3 "mention")
 
 [otpravit-kontakt.md](otpravit-kontakt.md "mention")— отправляет карточку контакта
 
