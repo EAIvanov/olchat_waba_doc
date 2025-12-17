@@ -222,7 +222,7 @@
 
 Из верхнего меню выберите "Настройки", затем "Права доступа к CRM".
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="227"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="227"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -230,7 +230,7 @@
 
 Для использования приложения сотруднику необходимо установить права на **Изменение** лида или сделки. Установите соответствующие права для выбранных ролей.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 При необходимости можно удалить имеющиеся настройки прав и добавить новые. Чтобы добавить новые права, нажмите "+" в конце списка роле&#x439;**,** выберите из структуры компании нужный отдел или сотрудника и присвойте ему необходимую роль. Нажмите на кнопку «Сохранить».
 {% endstep %}

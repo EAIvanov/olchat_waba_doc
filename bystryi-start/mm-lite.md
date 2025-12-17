@@ -61,6 +61,32 @@ TTL — срок действия сообщения. Вы можете зада
 
 ### Как подключить? <a href="#id-statyavbzmmlite-kakpodklyuchit-.1" id="id-statyavbzmmlite-kakpodklyuchit-.1"></a>
 
+Подключение MM Lite возможно двумя способами: в личном кабинете GupShup, а также в Facebook Business Manager.
+
+Инструкция по подключению с помощью личного кабинета GupShup:
+
+{% stepper %}
+{% step %}
+#### На главной странице личного кабинета GupShup выберите подключенный аккаунт.
+{% endstep %}
+
+{% step %}
+#### Нажмите "Дашборд", затем выберите "Счёт".
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+#### Нажмите "Приступайте к работе", чтобы перейти на MM Lite.
+
+В открывшемся окне нажмите "Включить оптимизированный маркетинг".
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
+
+Инструкция по подключению с помощью Facebook Business Manager:
+
 {% stepper %}
 {% step %}
 #### Перейдите в Facebook Business Manager.
@@ -81,9 +107,9 @@ TTL — срок действия сообщения. Вы можете зада
 {% endstep %}
 
 {% step %}
-#### Примите запрос от GupShup, нажав кнопку "Ответить",а  затем подтвердив переход на MM Lite.
+#### Примите запрос от GupShup, нажав кнопку "Ответить", а  затем подтвердив переход на MM Lite.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

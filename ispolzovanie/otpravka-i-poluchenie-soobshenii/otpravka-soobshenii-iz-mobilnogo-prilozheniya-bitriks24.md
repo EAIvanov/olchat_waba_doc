@@ -36,13 +36,13 @@
 {% endstep %}
 
 {% step %}
-#### В карточке клиента перейдите в "Таймлайн", затем нажмите кнопку <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> и выберите "Отправить СМС".
+#### В карточке клиента перейдите в "Таймлайн", затем нажмите кнопку <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line"> и выберите "Отправить СМС".
 
 <div><figure><img src="../../.gitbook/assets/Скриншот 08.08.25_16.02.15.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Скриншот 08.08.25_16.06.04.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-#### В открывшемся окне нажмите на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">, чтобы указать коннектор, к которому привязан шаблон, и с помощью которого будет отправлено сообщение клиенту, а также выберите СМС-сервис.
+#### В открывшемся окне нажмите на <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">, чтобы указать коннектор, к которому привязан шаблон, и с помощью которого будет отправлено сообщение клиенту, а также выберите СМС-сервис.
 
 <div><figure><img src="../../.gitbook/assets/Скриншот 08.08.25_16.07.30.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Скриншот 08.08.25_16.19.25.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
