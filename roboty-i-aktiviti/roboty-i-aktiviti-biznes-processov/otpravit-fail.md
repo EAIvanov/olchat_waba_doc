@@ -14,9 +14,9 @@
 {% step %}
 #### Перейти в раздел "Роботы" из списка лидов, либо карточки лида в CRM.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -44,7 +44,7 @@
 {% endstep %}
 
 {% step %}
-#### Настройка робота завершена.
+#### Настройка робота завершена.&#x20;
 
 Сообщение клиенту в WhatsApp будет выглядеть следующим образом:
 

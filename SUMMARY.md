@@ -18,6 +18,7 @@
 * [Добавление компании в Business Manager](bystryi-start/podtverzhdenie-kompanii-v-facebook-business-manager.md)
 * [Перенос номера с провайдером GupShup](bystryi-start/perenos-nomera-s-provaiderom-gupshup.md)
 * [Перенос номера от другого провайдера](bystryi-start/perenos-nomera.md)
+* [MM Lite](bystryi-start/mm-lite.md)
 
 ## Установка и настройка приложения в Битрикс24
 
