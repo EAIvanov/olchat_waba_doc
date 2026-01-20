@@ -9,3 +9,7 @@
 При превышении лимитов в момент отправки сообщения вы получите следующую ошибку:  «Маркетинговое ограничение на рассылку сообщений» код ошибки #131049
 
 <figure><img src="../.gitbook/assets/Screenshot_9.png" alt=""><figcaption></figcaption></figure>
+
+Если вы достигли лимита делая рассылку, то при наведении на статус "Не отправлено" вы увидите аналогичную ошибку:
+
+<figure><img src="../.gitbook/assets/Screenshot_11.png" alt=""><figcaption></figcaption></figure>
