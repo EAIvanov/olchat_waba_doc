@@ -38,7 +38,7 @@
 3. Введите координаты точки на карте. В поле "Адрес" можно указать название места или улицу, дом. Во второй строке адреса, например, можно указать город.&#x20;
 4. Сохраните настройки.
 
-<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
