@@ -6,6 +6,7 @@
   * [Оплата приложения Whatsabi](tarify-prilozheniya/oplata-prilozheniya-whatsabi.md)
   * [Copy of Оплата приложения Whatsabi](tarify-prilozheniya/copy-of-oplata-prilozheniya-whatsabi.md)
   * [Пополнение баланса через представителя и в личном кабинете GupShup](tarify-prilozheniya/popolnenie-balansa-cherez-predstavitelya-i-v-lichnom-kabinete-gupshup.md)
+* [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
 * [Блокировка аккаунта](blokirovka-akkaunta.md)
 
 ## Быстрый старт
