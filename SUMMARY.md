@@ -88,6 +88,7 @@
   * [Как отключить номер от WhatsApp Business API, чтобы подключиться к «серому» WhatsApp?](voprosy-i-otvety/untitled/kak-otklyuchit-nomer-ot-whatsapp-business-api-chtoby-podklyuchitsya-k-seromu-whatsapp.md)
   * [Существует ли защита от спама и списания средств за входящие сообщения?](voprosy-i-otvety/untitled/sushestvuet-li-zashita-ot-spama-i-spisaniya-sredstv-za-vkhodyashie-soobsheniya.md)
   * [Как добавить второго администратора?](voprosy-i-otvety/untitled/kak-dobavit-vtorogo-administratora.md)
+  * [Как добавить сотрудника в личный кабинет Gupshup, чтобы он мог работать с шаблонами?](voprosy-i-otvety/untitled/kak-dobavit-sotrudnika-v-lichnyi-kabinet-gupshup-chtoby-on-mog-rabotat-s-shablonami.md)
 * [Коды ошибок и их значения](voprosy-i-otvety/kody-oshibok-i-ikh-znacheniya.md)
 
 ## Кейсы
