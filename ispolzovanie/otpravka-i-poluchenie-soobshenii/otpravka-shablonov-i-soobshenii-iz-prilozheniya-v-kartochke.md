@@ -26,7 +26,7 @@
 
 Если вы хотите начать новый диалог с клиентом, отправьте ему шаблонное сообщение. Шаблонные сообщения – это сообщения добавленные в кабинете GupShup и заранее согласованные с Meta\* . Подробнее про создание и управление шаблонами сообщений в статье [sozdanie-i-upravlenie-shablonami-soobshenii](../../lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/ "mention")
 
-После выбора нужного шаблона, он отобразится в окне предпросмотра:
+После выбора нужного шаблона он отобразится в окне предпросмотра:
 
 <figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@
 
 > DISK\_<mark style="color:red;">ID</mark>
 
-В данном параметре <mark style="color:red;">ID</mark> - это ID файла на Битрикс.Диске. Узнать ID файла можно тут:
+В данном параметре <mark style="color:red;">ID</mark> (идентификатор) — это ID файла на Битрикс.Диске. Узнать ID файла можно тут:
 
 <figure><img src="../../.gitbook/assets/Скриншот 21.08.25_03.51.23.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,11 +63,11 @@
 <figure><img src="../../.gitbook/assets/da6e7d55-8379-4ece-999b-de7ff824d183.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Размер изображения, отправляемого клиенту, должен быть 800×800 пикселей. В таком случае, изображение в WhatsApp, при прочтении сообщения, обрезаться не будет.
+Размер изображения, отправляемого клиенту, должен быть 800×800 пикселей. В таком случае изображение в WhatsApp, при прочтении сообщения, обрезаться не будет.
 {% endhint %}
 
 {% hint style="info" %}
-Подробнее о создании шаблонных сообщений с изображениями в статье [#sozdanie-shablona-s-izobrazheniyami](../../lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/#sozdanie-shablona-s-izobrazheniyami "mention")
+Подробнее о создании шаблонных сообщений с изображениями в статье [#sozdanie-shablona-s-izobrazheniyami](../../lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/#sozdanie-shablona-s-izobrazheniyami "mention").
 {% endhint %}
 
 ### Стандартные сообщения <a href="#liniya" id="liniya"></a>

@@ -64,7 +64,7 @@
 
 > \[template=ru]<mark style="color:red;">kartinka</mark>\[/template]\[header=image]<mark style="color:green;">DISK\_3283</mark>\[/header]
 
-В данном случае <mark style="color:red;">kartinka</mark> - название шаблона, а <mark style="color:green;">DISK\_3283</mark> - ссылка на изображение, хранящееся на Битрикс.Диске, которое будет отправлено вместе с сообщением.
+В данном случае <mark style="color:red;">kartinka</mark> — название шаблона, а <mark style="color:green;">DISK\_3283</mark> — ссылка на изображение, хранящееся на Битрикс.Диске, которое будет отправлено вместе с сообщением.
 
 Вставьте текст скопированного шаблона в чат с клиентом и отправьте его через функционал СМС, выбрав коннектор Олчат WABA.
 

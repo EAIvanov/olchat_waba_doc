@@ -26,20 +26,20 @@
 
 ### Описание роботов и активити
 
-[otpravit-soobshenie-ili-shablon.md](otpravit-soobshenie-ili-shablon.md "mention") — робот для отправки шаблонных и стандартных сообщений
+[otpravit-soobshenie-ili-shablon.md](otpravit-soobshenie-ili-shablon.md "mention") — робот для отправки шаблонных и стандартных сообщений.
 
-[otpravit-fail.md](otpravit-fail.md "mention") — робот для отправки изображений и других файлов
+[otpravit-fail.md](otpravit-fail.md "mention") — робот для отправки изображений и других файлов.
 
-[Broken link](/broken/pages/Ef7mnTbT3eJaKrg96hv4 "mention")
+[Broken link](/broken/pages/Ef7mnTbT3eJaKrg96hv4 "mention").
 
-[Broken link](/broken/pages/UT0bBCctg5OMgN1EUxj3 "mention")
+[Broken link](/broken/pages/UT0bBCctg5OMgN1EUxj3 "mention").
 
-[otpravit-kontakt.md](otpravit-kontakt.md "mention")— отправляет карточку контакта
+[otpravit-kontakt.md](otpravit-kontakt.md "mention")— отправляет карточку контакта.
 
-[otpravit-geolokaciyu.md](otpravit-geolokaciyu.md "mention")— отправляет местоположение заданное координатами широты и долготы
+[otpravit-geolokaciyu.md](otpravit-geolokaciyu.md "mention")— отправляет местоположение заданное координатами широты и долготы.
 
-[proverit-nalichie-whatsapp-na-nomere.md](proverit-nalichie-whatsapp-na-nomere.md "mention") — проверяет телефон на наличие WhatsApp
+[proverit-nalichie-whatsapp-na-nomere.md](proverit-nalichie-whatsapp-na-nomere.md "mention") — проверяет телефон на наличие WhatsApp.
 
-[ozhidat-soobshenie.md](ozhidat-soobshenie.md "mention")
+[ozhidat-soobshenie.md](ozhidat-soobshenie.md "mention").
 
-[uznat-vozmozhnost-otpravki-soobsheniya.md](uznat-vozmozhnost-otpravki-soobsheniya.md "mention")
+[uznat-vozmozhnost-otpravki-soobsheniya.md](uznat-vozmozhnost-otpravki-soobsheniya.md "mention").
