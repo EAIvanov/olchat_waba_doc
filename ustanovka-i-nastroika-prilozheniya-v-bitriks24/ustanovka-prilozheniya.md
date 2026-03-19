@@ -6,6 +6,6 @@
 
 <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-После установки приложение «Whatsabi» появится в левом меню портала:
+После установки приложение «Олчат WABA» появится в левом меню портала:
 
 <figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>

@@ -3,8 +3,8 @@
 * [🚀 ВВЕДЕНИЕ](README.md)
 * [Официальная интеграция WhatsApp Business API](oficialnaya-integraciya-whatsapp-business-api.md)
 * [Тарифы и стоимость](tarify-prilozheniya/README.md)
-  * [Оплата приложения Whatsabi](tarify-prilozheniya/oplata-prilozheniya-whatsabi.md)
-  * [Copy of Оплата приложения Whatsabi](tarify-prilozheniya/copy-of-oplata-prilozheniya-whatsabi.md)
+  * [Оплата приложения Олчат WABA](tarify-prilozheniya/oplata-prilozheniya-olchat-waba.md)
+  * [Copy of Оплата приложения Олчат WABA](tarify-prilozheniya/copy-of-oplata-prilozheniya-olchat-waba.md)
   * [Пополнение баланса через представителя и в личном кабинете GupShup](tarify-prilozheniya/popolnenie-balansa-cherez-predstavitelya-i-v-lichnom-kabinete-gupshup.md)
 * [Блокировка аккаунта](blokirovka-akkaunta.md)
 * [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
@@ -82,7 +82,7 @@
 ## Вопросы и ответы
 
 * [Вопросы и ответы](voprosy-i-otvety/untitled/README.md)
-  * [Решение ошибки "Соответствие компании правилам: проблема с платежом"](voprosy-i-otvety/untitled/reshenie-oshibki-sootvetstvie-kompanii-pravilam-problema-s-platezhom.md)
+  * [Решение ошибки «Соответствие компании правилам: проблема с платежом»](voprosy-i-otvety/untitled/reshenie-oshibki-sootvetstvie-kompanii-pravilam-problema-s-platezhom.md)
   * [Сравнение неофициальной интеграции WhatsApp и официальной WhatsApp Business API с Битрикс24](voprosy-i-otvety/untitled/sravnenie-neoficialnoi-integracii-whatsapp-i-oficialnoi-whatsapp-business-api-s-bitriks24.md)
   * [Отличие WhatsApp, WhatsApp Business и WhatsApp Business API](voprosy-i-otvety/untitled/otlichie-whatsapp-whatsapp-business-i-whatsapp-business-api.md)
   * [Как отключить номер от WhatsApp Business API, чтобы подключиться к «серому» WhatsApp?](voprosy-i-otvety/untitled/kak-otklyuchit-nomer-ot-whatsapp-business-api-chtoby-podklyuchitsya-k-seromu-whatsapp.md)

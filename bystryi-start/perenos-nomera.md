@@ -12,19 +12,19 @@
 
 {% stepper %}
 {% step %}
-#### Перейдите в [WhatsApp Manager](https://business.facebook.com/latest/whatsapp_manager/overview/), затем выберите необходимый для переноса номер телефона.
+Перейдите в [WhatsApp Manager](https://business.facebook.com/latest/whatsapp_manager/overview/), затем выберите необходимый для переноса номер телефона.
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.08.49.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Выберите вкладку "Двухшаговая проверка", затем нажмите "Отключить двухшаговую проверку".
+Выберите вкладку «Двухшаговая проверка», затем нажмите «Отключить двухшаговую проверку».
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.09.43.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### На привязанный e-mail придёт письмо с ссылкой для отключения 2FA. Перейдите по ней и подтвердите отключение.
+На привязанный адрес электронной почты придёт письмо с ссылкой для отключения 2FA. Перейдите по ней и подтвердите отключение.
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.11.14.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -40,15 +40,15 @@
 
 {% stepper %}
 {% step %}
-#### При создании приложения в GupShup, на этапе "Let\`s get started" выберите "Migrate a live phone number", затем нажмите "Continue".
+При создании приложения в GupShup, на этапе «Let\`s get started» («Начать») выберите «Migrate a live phone number» («Перенести номер телефона»), затем нажмите «Continue».
 
-Перейти к данному этапу получится после нажатия кнопки "Go Live".
+Перейти к данному этапу получится после нажатия кнопки «Go Live».
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.20.46.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Следуйте дальнейшей инструкции, выбрав или создав аккаунт. Далее создайте профиль под номер.
+Следуйте дальнейшей инструкции, выбрав или создав аккаунт. Далее создайте профиль под номер.
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.26.05.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@
 {% endstep %}
 
 {% step %}
-#### Добавьте номер, который переносится.
+Добавьте номер, который переносится.
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.44.45.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,13 +66,13 @@
 {% endstep %}
 
 {% step %}
-#### При успешном переносе, в GupShup станет доступен следующий шаг. Здесь необходмо также выбрать номер, который переносится, далее нажать "Confirm".
+При успешном переносе, в GupShup станет доступен следующий шаг. Здесь необходмо также выбрать номер, который переносится, далее нажать «Confirm» («Подтвердить»).
 
 <figure><img src="../.gitbook/assets/Скриншот 29.07.25_10.47.40.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-#### Перенос номера завершен.
+Перенос номера завершен.
 {% endstep %}
 {% endstepper %}
 
@@ -85,7 +85,5 @@
 После этого переходите к установке приложения:
 
 {% embed url="https://waba.docs.olchat.io/ustanovka-i-nastroika-prilozheniya-v-bitriks24/ustanovka-prilozheniya" %}
-
-
 
 _(\*) Meta, Facebook — признана экстремистской организацией на территории РФ._

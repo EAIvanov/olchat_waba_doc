@@ -18,7 +18,7 @@
 
 ### Установка роботов и активити <a href="#ustanovka-robotov-i-aktiviti" id="ustanovka-robotov-i-aktiviti"></a>
 
-Включить роботов и активити можно в настройках приложения: **Whatsabi — Настройки — Роботы и Бизнес-процессы.**
+Включить роботов и активити можно в настройках приложения: **Олчат WABA — Настройки — Роботы и Бизнес-процессы.**
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
