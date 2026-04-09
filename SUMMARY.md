@@ -39,7 +39,6 @@
 * [Создание и управление шаблонами сообщений](lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/README.md)
   * [Описание категорий шаблонов](lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/opisanie-kategorii-shablonov.md)
   * [Причины отклонения шаблонов и рекомендации по их исправлению](lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/prichiny-otkloneniya-shablonov-i-rekomendacii-po-ikh-ispravleniyu.md)
-  * [Copy of Причины отклонения шаблонов и рекомендации по их исправлению](lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/copy-of-prichiny-otkloneniya-shablonov-i-rekomendacii-po-ikh-ispravleniyu.md)
   * [Почему шаблоны могут долго находиться на модерации?](lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/pochemu-shablony-mogut-dolgo-nakhoditsya-na-moderacii.md)
 
 ## Верификация
