@@ -2,7 +2,6 @@
 
 * [🚀 ВВЕДЕНИЕ](README.md)
 * [Официальная интеграция WhatsApp Business API](oficialnaya-integraciya-whatsapp-business-api.md)
-* [Copy of Официальная интеграция WhatsApp Business API](copy-of-oficialnaya-integraciya-whatsapp-business-api.md)
 * [Тарифы и стоимость](tarify-prilozheniya/README.md)
   * [Оплата приложения Олчат WABA](tarify-prilozheniya/oplata-prilozheniya-whatsabi.md)
   * [Copy of Оплата приложения Олчат WABA](tarify-prilozheniya/copy-of-oplata-prilozheniya-whatsabi.md)
@@ -13,7 +12,6 @@
 ## Быстрый старт
 
 * [Последовательность подключения](bystryi-start/posledovatelnost-podklyucheniya.md)
-* [Copy of Последовательность подключения](bystryi-start/copy-of-posledovatelnost-podklyucheniya.md)
 * [Чек-лист до запуска WABA](bystryi-start/chek-list-do-zapuska-waba.md)
 * [Copy of Чек-лист до запуска WABA](bystryi-start/copy-of-chek-list-do-zapuska-waba.md)
 * [Регистрация в GupShup](bystryi-start/copy-of-registraciya-v-gupshup.md)
@@ -86,7 +84,6 @@
 * [Вопросы и ответы](voprosy-i-otvety/untitled/README.md)
   * [Решение ошибки «Соответствие компании правилам: проблема с платежом»](voprosy-i-otvety/untitled/reshenie-oshibki-sootvetstvie-kompanii-pravilam-problema-s-platezhom.md)
   * [Сравнение неофициальной интеграции WhatsApp и официальной WhatsApp Business API с Битрикс24](voprosy-i-otvety/untitled/sravnenie-neoficialnoi-integracii-whatsapp-i-oficialnoi-whatsapp-business-api-s-bitriks24.md)
-  * [Copy of Сравнение неофициальной интеграции WhatsApp и официальной WhatsApp Business API с Битрикс24](voprosy-i-otvety/untitled/copy-of-sravnenie-neoficialnoi-integracii-whatsapp-i-oficialnoi-whatsapp-business-api-s-bitriks24.md)
   * [Отличие WhatsApp, WhatsApp Business и WhatsApp Business API](voprosy-i-otvety/untitled/otlichie-whatsapp-whatsapp-business-i-whatsapp-business-api.md)
   * [Как отключить номер от WhatsApp Business API, чтобы подключиться к «серому» WhatsApp?](voprosy-i-otvety/untitled/kak-otklyuchit-nomer-ot-whatsapp-business-api-chtoby-podklyuchitsya-k-seromu-whatsapp.md)
   * [Существует ли защита от спама и списания средств за входящие сообщения?](voprosy-i-otvety/untitled/sushestvuet-li-zashita-ot-spama-i-spisaniya-sredstv-za-vkhodyashie-soobsheniya.md)
