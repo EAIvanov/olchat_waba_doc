@@ -2,6 +2,7 @@
 
 * [🚀 ВВЕДЕНИЕ](README.md)
 * [Официальная интеграция WhatsApp Business API](oficialnaya-integraciya-whatsapp-business-api.md)
+* [Copy of Официальная интеграция WhatsApp Business API](copy-of-oficialnaya-integraciya-whatsapp-business-api.md)
 * [Тарифы и стоимость](tarify-prilozheniya/README.md)
   * [Оплата приложения Олчат WABA](tarify-prilozheniya/oplata-prilozheniya-whatsabi.md)
   * [Copy of Оплата приложения Олчат WABA](tarify-prilozheniya/copy-of-oplata-prilozheniya-whatsabi.md)
