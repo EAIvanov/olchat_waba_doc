@@ -12,6 +12,7 @@
 ## Быстрый старт
 
 * [Последовательность подключения](bystryi-start/posledovatelnost-podklyucheniya.md)
+* [Copy of Последовательность подключения](bystryi-start/copy-of-posledovatelnost-podklyucheniya.md)
 * [Чек-лист до запуска WABA](bystryi-start/chek-list-do-zapuska-waba.md)
 * [Copy of Чек-лист до запуска WABA](bystryi-start/copy-of-chek-list-do-zapuska-waba.md)
 * [Регистрация в GupShup](bystryi-start/copy-of-registraciya-v-gupshup.md)
