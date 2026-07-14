@@ -62,7 +62,7 @@
 
 На странице 2 введите ваши контактные данные, для связи с вами по вопросам, касающимся бизнес-аккаунта WhatsApp:
 
-<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 На странице 3 проверьте контактные данные и нажмите на кнопку «Подтвердить»:
 

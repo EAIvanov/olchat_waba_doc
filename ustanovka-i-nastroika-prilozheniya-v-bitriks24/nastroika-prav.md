@@ -98,7 +98,7 @@
 {% endstep %}
 
 {% step %}
-Нажмите на «<img src="../.gitbook/assets/image (337).png" alt="" data-size="line">», затем выберите «Доступ».
+Нажмите на «<img src="../.gitbook/assets/image (309).png" alt="" data-size="line">», затем выберите «Доступ».
 
 <figure><img src="../.gitbook/assets/image (335).png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}

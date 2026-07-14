@@ -14,7 +14,7 @@
 
 Задайте имя шаблону сообщения. Имя шаблона должно быть указано на латинице:
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 Выберите категорию и тип шаблона сообщения. Например, «Маркетинг» и «Пользовательское сообщение»:
 

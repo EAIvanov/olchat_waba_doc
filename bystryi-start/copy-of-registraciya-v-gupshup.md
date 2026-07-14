@@ -2,9 +2,9 @@
 
 Для подачи заявки на регистрацию аккаунта WhatsApp Business API необходимо [перейти по ссылке и](https://www.gupshup.io/)[ зарегистрироваться на сайте gupshup.io](https://www.gupshup.io/)
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-Нажмите на кнопку Sign up here (зарегистрироваться здесь).&#x20;
+Нажмите на кнопку Sign up here (зарегистрироваться здесь).
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 

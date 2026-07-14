@@ -28,7 +28,7 @@
     * Ваше имя.
     * Электронный адрес компании. С его помощью Meta\* будет связываться с вашей компанией. Электронный адрес не смогут видеть клиенты.
 
-    <figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 6. Нажмите Отправить или Создать, чтобы создать портфолио. Вы получите электронное письмо с просьбой подтвердить электронный адрес компании.
 
 ## Редактирование информации о компании в Meta\* Business Manager
@@ -49,7 +49,7 @@
     <figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 5.  Обновите необходимые данные:<br>
 
-    <figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 6. Нажмите на кнопку Сохранить.
 7. Meta\* отправит вам электронное письмо, чтобы подтвердить изменения.
 

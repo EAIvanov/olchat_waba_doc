@@ -18,7 +18,7 @@
 
 ## Соединение
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 На вкладке «Соединение» производится настройка и подключение коннектора. Подробнее в статье [#podklyuchenie-konnektora](../podklyuchenie-konnektora.md#podklyuchenie-konnektora "mention").
 
