@@ -60,6 +60,7 @@
 
 ## Возможности
 
+* [Шаблоны](vozmozhnosti/shablony.md)
 * [Виджет на сайт](vozmozhnosti/dobavlenie-vidzheta-na-sait.md)
 * [Получение параметров шаблонов](vozmozhnosti/poluchenie-parametrov-shablonov.md)
 * [Рассылка шаблонов с помощью Маркетинга](vozmozhnosti/rassylka-shablonov-s-pomoshyu-marketinga.md)
