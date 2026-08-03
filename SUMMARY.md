@@ -57,6 +57,7 @@
 * [Виджеты](ispolzovanie/vidzhety/README.md)
   * [Виджет статусов и отправки в карточке CRM](ispolzovanie/vidzhety/vidzhet-v-kartochke-crm.md)
   * [Виджет отправки шаблонов для Открытой Линии](ispolzovanie/vidzhety/vidzhet-otpravki-shablonov-dlya-otkrytoi-linii.md)
+* [REST API для рассылок и отчётности](ispolzovanie/rest-api-dlya-rassylok-i-otchetnosti.md)
 
 ## Возможности
 
