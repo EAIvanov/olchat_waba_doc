@@ -58,7 +58,7 @@ TTL — срок действия сообщения. Вы можете зада
 {% step %}
 Нажмите «Дашборд», затем выберите «Счёт».
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -66,7 +66,7 @@ TTL — срок действия сообщения. Вы можете зада
 
 В открывшемся окне нажмите «Включить оптимизированный маркетинг».
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -92,7 +92,7 @@ TTL — срок действия сообщения. Вы можете зада
 {% step %}
 Примите запрос от GupShup, нажав кнопку «Ответить», а затем подтвердив переход на MM Lite.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
