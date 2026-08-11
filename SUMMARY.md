@@ -52,6 +52,7 @@
 
 * [Отправка и получение сообщений](ispolzovanie/otpravka-i-poluchenie-soobshenii/README.md)
   * [Отправка шаблонов и сообщений из приложения в карточке](ispolzovanie/otpravka-i-poluchenie-soobshenii/otpravka-shablonov-i-soobshenii-iz-prilozheniya-v-kartochke.md)
+  * [Как отправить шаблон из чата Открытой линии](ispolzovanie/otpravka-i-poluchenie-soobshenii/shablony.md)
   * [Отправка сообщений через функционал СМС](ispolzovanie/otpravka-i-poluchenie-soobshenii/otpravka-soobshenii-cherez-funkcional-sms.md)
   * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-i-poluchenie-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 * [Виджеты](ispolzovanie/vidzhety/README.md)
@@ -61,7 +62,6 @@
 
 ## Возможности
 
-* [Шаблоны](vozmozhnosti/shablony.md)
 * [Виджет на сайт](vozmozhnosti/dobavlenie-vidzheta-na-sait.md)
 * [Получение параметров шаблонов](vozmozhnosti/poluchenie-parametrov-shablonov.md)
 * [Рассылка шаблонов с помощью Маркетинга](vozmozhnosti/rassylka-shablonov-s-pomoshyu-marketinga.md)

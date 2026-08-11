@@ -2,11 +2,11 @@
 hidden: true
 ---
 
-# Шаблоны
+# Как отправить шаблон из чата Открытой линии
 
 Олчат WABA позволяет удобно работать с шаблонными сообщениями WhatsApp Business API прямо внутри интерфейса Битрикс24. Один из самых удобных способов — в поле ввода сообщения чата Открытой линии.&#x20;
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Это решение особенно полезно для менеджеров, которые часто отправляют однотипные сообщения: приветствия, уведомления, коммерческие предложения и т.д.
 
@@ -14,7 +14,7 @@ hidden: true
 
 Шаблоны для Олчат WABA находятся не внутри Битрикс24, а в личном кабинете провайдера GupShup.&#x20;
 
-Подробнее можно ознакомиться [здесь](../lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/).
+Подробнее можно ознакомиться [здесь](../../lichnyi-kabinet-gupshup/sozdanie-i-upravlenie-shablonami-soobshenii/).
 
 ## Включение встроенной панели шаблонов в чатах
 
@@ -22,10 +22,10 @@ hidden: true
 
 1.  Перейдите в настройки приложения.<br>
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 2.  Откройте вкладку **Виджеты**.<br>
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 3. Найдите пункт **Виджет отправки шаблонов для ОЛ** и включите его.
 
 ## Отправка шаблонов из чата Открытой линии
@@ -33,12 +33,12 @@ hidden: true
 1. Откройте нужный чат.
 2.  В поле ввода сообщения нажмите на иконку выбора шаблонов (сетка / 4 квадратика).<br>
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 3.  Выберите раздел **Олчат WABA — отправка сообщений**.<br>
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 4. Найдите нужный шаблон через поиск или фильтр по категориям.
-5. Выберите шаблон — текст вставится в поле ввода с подставленными переменными (если они есть).
+5. Выберите шаблон и заполните [параметры](otpravka-shablonov-i-soobshenii-iz-prilozheniya-v-kartochke.md#shablony).
 6. При необходимости отредактируйте сообщение и отправьте.
 
 ## Отправка шаблонов из карточки сущности
@@ -49,6 +49,6 @@ hidden: true
 4. Выберите шаблон, заполните переменные при необходимости.
 5. Отправьте сообщение.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 Правильная настройка виджета шаблонов, аккуратное создание шаблонов в GupShup помогают значительно ускорить работу отдела продаж и поддержки, снизить количество ошибок и поддерживать высокий уровень коммуникации.
