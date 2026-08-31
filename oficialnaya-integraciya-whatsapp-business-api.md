@@ -37,6 +37,3 @@
 
 _(\*) Meta — признана экстремистской организацией на территории РФ._
 
-
-
-<figure><img src=".gitbook/assets/Screenshot_7.jpg" alt=""><figcaption></figcaption></figure>
