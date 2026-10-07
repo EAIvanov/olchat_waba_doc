@@ -6,6 +6,10 @@
   * [Оплата приложения Олчат WABA](tarify-prilozheniya/oplata-prilozheniya-whatsabi.md)
   * [Copy of Оплата приложения Олчат WABA](tarify-prilozheniya/copy-of-oplata-prilozheniya-whatsabi.md)
   * [Пополнение баланса через представителя и в личном кабинете GupShup](tarify-prilozheniya/popolnenie-balansa-cherez-predstavitelya-i-v-lichnom-kabinete-gupshup.md)
+* [Copy of Тарифы и стоимость](tarify-prilozheniya-1/README.md)
+  * [Оплата приложения Олчат WABA](tarify-prilozheniya-1/oplata-prilozheniya-whatsabi.md)
+  * [Copy of Оплата приложения Олчат WABA](tarify-prilozheniya-1/copy-of-oplata-prilozheniya-whatsabi.md)
+  * [Пополнение баланса через представителя и в личном кабинете GupShup](tarify-prilozheniya-1/popolnenie-balansa-cherez-predstavitelya-i-v-lichnom-kabinete-gupshup.md)
 * [Блокировка аккаунта](blokirovka-akkaunta.md)
 * [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
 
