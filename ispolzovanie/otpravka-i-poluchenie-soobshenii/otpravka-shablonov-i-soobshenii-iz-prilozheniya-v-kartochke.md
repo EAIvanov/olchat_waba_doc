@@ -1,8 +1,8 @@
 # Отправка шаблонов и сообщений из приложения в карточке
 
-Для отправки стандартных сообщений или шаблонных из карточки лида, сделки, контакта или компании перейдите в карточку и выберите приложение «Олчат WABA»:<br>
+Для отправки стандартных сообщений или шаблонных из карточки лида, сделки, контакта или компании перейдите в карточку и выберите приложение «Олчат WABA»:
 
-<figure><img src="../../.gitbook/assets/Screenshot_7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 

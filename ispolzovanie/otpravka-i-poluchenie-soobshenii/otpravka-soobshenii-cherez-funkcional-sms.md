@@ -6,17 +6,15 @@
 Наш сервис не отправляет СМС-сообщения! Он позволяет отправить сообщение в WhatsApp через функционал СМС. Для отправки именно СМС-сообщений, на вашем портале Битрикс24 должен быть подключён провайдер СМС.
 {% endhint %}
 
-Для отправки сообщений через функционал СМС, в таймлайне карточки сущности перейдите на вкладку «СМС»:
-
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+Для отправки сообщений через функционал СМС, в таймлайне карточки сущности перейдите на вкладку «СМС».
 
 Нажмите на «Подробнее» чтобы выбрать нужный сервис:
 
-<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 В качестве сервиса для отправки выберите коннектор Олчат WABA:
 
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{CA5CC88D-2D89-4407-B3C7-7E86207A895F}.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Вы можете столкнуться с ситуацией, когда провайдер Олчат WABA не появляется в выборе сервисов отправки. При возникновении такой ситуации, перейдите в приложение Олчат WABA.
@@ -38,7 +36,7 @@
 
 В текст СМС-сообщения необходимо подставить готовую, сформированную ранее конструкцию шаблона и нажать на кнопку «ОТПРАВИТЬ»:
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{B435D9A5-D3AA-4DA5-AABD-E208FF31F54D}.png" alt=""><figcaption></figcaption></figure>
 
 После отправки данной конструкции, клиент получит шаблонное сообщение в WhatsApp в следующем преобразованном виде:
 
@@ -68,7 +66,7 @@
 
 Вставьте текст скопированного шаблона в чат с клиентом и отправьте его через функционал СМС, выбрав коннектор Олчат WABA.
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_04.45.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 В таймлане карточки факт отправки также зафиксируется и создастся дело «Отправлено СМС-сообщение»:
 
@@ -78,7 +76,7 @@
 
 Если у вас отрыто 24-х часовое окно переписки с клиентом, вы можете отправить обычное сообщение в свободной форме. Напишите текст сообщения и нажмите «Отправить»:
 
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{2DDCADC9-5CE3-4F9B-B740-EB01CA16748D}.png" alt=""><figcaption></figcaption></figure>
 
 Факт отправки сообщения зафиксируется в таймлайне:
 

@@ -14,7 +14,7 @@
 
 Сделать это можно, выбрав приложение в левом меню портала Битрикс24, либо воспользоваться списком установленных приложений через Маркетплейс.
 
-<figure><img src="../.gitbook/assets/image (319).png" alt="" width="174"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -58,7 +58,7 @@
 
 Сделать это можно, выбрав приложение в левом меню портала Битрикс24, либо воспользоваться списком установленных приложений через Маркетплейс.
 
-<figure><img src="../.gitbook/assets/image (319).png" alt="" width="174"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -122,12 +122,12 @@
 {% step %}
 Откройте приложение Олчат WABA.
 
-<figure><img src="../.gitbook/assets/image (338).png" alt="" width="174"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
+
+Нажмите на иконку шестерни после названия открытой линии и перейдите в настройки.
 {% endstep %}
 
 {% step %}
-Нажмите на иконку шестерни после названия открытой линии и перейдите в настройки.
-
 <figure><img src="../.gitbook/assets/image (339).png" alt="" width="375"><figcaption></figcaption></figure>
 {% endstep %}
 
@@ -156,7 +156,7 @@
 {% step %}
 Левой кнопкой мыши выберите карточку Олчат WABA, чтобы открыть список линий, подключённых к приложению.
 
-<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

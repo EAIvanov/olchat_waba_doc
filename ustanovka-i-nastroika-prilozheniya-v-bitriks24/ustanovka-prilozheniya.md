@@ -8,4 +8,4 @@
 
 После установки приложение «Олчат WABA» появится в левом меню портала:
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

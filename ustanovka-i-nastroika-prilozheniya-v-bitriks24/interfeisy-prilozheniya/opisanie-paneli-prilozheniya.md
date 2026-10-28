@@ -2,11 +2,11 @@
 
 Панель приложения Олчат WABA является главным интерфейсом, содержащим набор инструментов для управления настройками приложения, получения актуальной информации о подключенных линиях и статусах подключения.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 ## Меню приложения
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{1C8E8F8B-1DEB-43A7-8DFD-218906260CE7}.png" alt=""><figcaption></figcaption></figure>
 
 * Пункт меню **«Статус рассылок».** Открывает страницу просмотра статусов рассылок CRM-маркетинга. Подробнее [в статье](https://waba.docs.olchat.io/vozmozhnosti/rassylka-shablonov-s-pomoshyu-marketinga#status-rassylok-marketinga).
 * Пункт меню **«Настройки».** Подробнее в статье [opisanie-nastroek-prilozheniya.md](opisanie-nastroek-prilozheniya.md "mention")

@@ -2,7 +2,7 @@
 
 Для добавления виджета WhatsApp на ваш сайт в левом меню портала войдите в приложение **Олчат WABA.** Выберите нужный коннектор и разверните раздел меню **Настройка виджета на сайт:**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/{BC74AF46-9EA7-4FDC-8B81-3ADB92284B6B}.png" alt=""><figcaption></figcaption></figure>
 
 Укажите текст приветствия в соответствующем поле. Нажмите на кнопку «УСТАНОВИТЬ».
 

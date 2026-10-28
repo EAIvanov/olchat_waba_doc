@@ -6,11 +6,11 @@
 
 Также в настройки Открытой линии можно перейти следующим образом: «CRM» — «Клиенты» — «Контакт-центр» — «Олчат WABA». Затем нажмите на подключенную Открытую линию:
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-### Раздел Очередь
+Очередь
 
 Сначала нужно добавить сотрудников в очередь и выбрать тип распределения диалогов. Рекомендуем ставить «Одновременно всем», если у вас нет специфического сценария работы.
 

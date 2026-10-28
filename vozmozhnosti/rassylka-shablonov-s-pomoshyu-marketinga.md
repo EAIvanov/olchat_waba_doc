@@ -6,7 +6,7 @@
 
 Перед началом рассылки создайте сегмент. Для этого перейдите на страницу **Маркетинг — Сегменты** и нажмите кнопку **Создать сегмент**:
 
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 В форме создания сегмента выберите получателей рассылки с помощью фильтра. После применения система покажет сколько контактов подходит под это условие.
 
@@ -51,7 +51,7 @@
 
 Отчет о рассылке можно посмотреть на главной странице приложения.
 
-<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В Статусах рассылок будет отображаться один из статусов:
