@@ -34,7 +34,7 @@
 {% step %}
 Нажмите «+ Создать», затем выберите стадию, на которую необходимо добавить робота, далее в меню выберите «Другие роботы» → \[Олчат WABA] Отправить сообщение.
 
-<figure><img src="../../.gitbook/assets/Скриншот 21.08.25_05.04.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{38F4154A-BD88-4AE9-96A0-CE70124E7840}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

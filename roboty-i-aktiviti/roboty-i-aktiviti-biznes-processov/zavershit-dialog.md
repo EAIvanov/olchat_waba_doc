@@ -23,7 +23,7 @@
 3. Из списка меню выберите «Другие роботы».
 4. Нажмите «Добавить» напротив «\[Олчат WABA] Закрыть все диалоги в сущности».
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{EF5DD6E5-B644-4EDB-ABE4-1B37F0E51D07}.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
